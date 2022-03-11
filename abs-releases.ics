@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:f8f843f9-8d21-4e11-9a62-aef615a226d1
+BEGIN:VEVENT
+UID:Labour_Force_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-03-17T00:30:00Z
+DTEND:2022-03-17T00:30:00Z
+SUMMARY:Labour Force, Australia, February 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Force_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-04-14T01:30:00Z
+DTEND:2022-04-14T01:30:00Z
+SUMMARY:Labour Force, Australia, March 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Force_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-05-19T01:30:00Z
+DTEND:2022-05-19T01:30:00Z
+SUMMARY:Labour Force, Australia, April 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Force_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-06-16T01:30:00Z
+DTEND:2022-06-16T01:30:00Z
+SUMMARY:Labour Force, Australia, May 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Force_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-07-14T01:30:00Z
+DTEND:2022-07-14T01:30:00Z
+SUMMARY:Labour Force, Australia, June 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Force_Australia.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:34:50Z
+DTSTART:2022-08-18T01:30:00Z
+DTEND:2022-08-18T01:30:00Z
+SUMMARY:Labour Force, Australia, July 2022
+DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
+END:VEVENT
+END:VCALENDAR

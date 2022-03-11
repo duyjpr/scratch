@@ -2,16 +2,152 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:f8f843f9-8d21-4e11-9a62-aef615a226d1
 BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.January_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-15T00:30:00Z
+DTEND:2022-03-15T00:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, January 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Residential_Property_Price_Indexes_Eight_Capital_Cities.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-15T00:30:00Z
+DTEND:2022-03-15T00:30:00Z
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities, December 2021
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market…\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Household_Impacts_of_COVID_19_Survey.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-16T00:30:00Z
+DTEND:2022-03-16T00:30:00Z
+SUMMARY:Household Impacts of COVID-19 Survey, February 2022
+DESCRIPTION:Insights into the prevalence and nature of impacts from COVID-19 on households in Australia.\n\nhttps://www.abs.gov.au/statistics/people/people-and-communities/household-impacts-covid-19-survey/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.January_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-16T00:30:00Z
+DTEND:2022-03-16T00:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, January 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.Jan_2020_Nov_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-16T00:30:00Z
+DTEND:2022-03-16T00:30:00Z
+SUMMARY:Provisional Mortality Statistics, Jan 2020 - Nov 2021
+DESCRIPTION:Information about the number of people dying from COVID-19 and the number of people dying with COVID-19 as a co-morbidity.\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.February_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-03-17T00:30:00Z
 DTEND:2022-03-17T00:30:00Z
 SUMMARY:Labour Force, Australia, February 2022
 DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:National_state_and_territory_population.September_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-17T00:30:00Z
+DTEND:2022-03-17T00:30:00Z
+SUMMARY:National, state and territory population, September 2021
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories\n\nhttps://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Tourism_Satellite_Accounts_quarterly_tourism_labour_statistics_Australia_experimental_estimates.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-18T00:30:00Z
+DTEND:2022-03-18T00:30:00Z
+SUMMARY:Tourism Satellite Accounts: quarterly tourism labour statistics, Australia, experimental estimates, December 2021
+DESCRIPTION:Experimental estimates of quarterly tourism employment and jobs to measure the impacts of COVID-19 on tourism activity\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/tourism-satellite-accounts-quarterly-tourism-labour-statistics-australia-experimental-estimates/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Alcohol_consumption.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Alcohol consumption, 2020-21
+DESCRIPTION:Contains key statistics and information from survey data about alcohol consumption and its prevalence within Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/alcohol-consumption/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Asthma.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Asthma, 2020-21
+DESCRIPTION:Contains key statistics and information about asthma and its prevalence in Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/asthma/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Diabetes.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Diabetes, 2020-21
+DESCRIPTION:Contains key statistics and information about diabetes and its prevalence in Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/diabetes/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Health_Conditions_Prevalence.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Health Conditions Prevalence, 2020-21
+DESCRIPTION:Key findings on selected long-term health conditions and prevalence in Australia\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Microdata_National_Health_Survey.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Microdata: National Health Survey, 2020-21
+DESCRIPTION:Presents microdata from the National Health Survey, 2020-21 for key health statistics including long-term health conditions and health risk…\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Physical_activity.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Physical activity, 2020-21
+DESCRIPTION:Contains key statistics and information about exercise and physical activity within Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/physical-activity/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Smoking.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-21T00:30:00Z
+DTEND:2022-03-21T00:30:00Z
+SUMMARY:Smoking, 2020-21
+DESCRIPTION:Contains key statistics and information about smoking and its prevalence within Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/smoking/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Household_Spending_Indicator.January_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-22T00:30:00Z
+DTEND:2022-03-22T00:30:00Z
+SUMMARY:Monthly Household Spending Indicator, January 2022
+DESCRIPTION:Experimental indicator of household spending using banks transaction data\n\nhttps://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal_Fraud.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-23T00:30:00Z
+DTEND:2022-03-23T00:30:00Z
+SUMMARY:Personal Fraud, 2020-21
+DESCRIPTION:Statistics about personal fraud, including card fraud, identity theft, and scams (phishing, romance, computer support, financial advice and more…\n\nhttps://www.abs.gov.au/statistics/people/crime-and-justice/personal-fraud/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Preschool_Education_Australia.2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-23T00:30:00Z
+DTEND:2022-03-23T00:30:00Z
+SUMMARY:Preschool Education, Australia, 2021
+DESCRIPTION:Statistics about preschool education, including enrolment, attendance, fees and service providers\n\nhttps://www.abs.gov.au/statistics/people/education/preschool-education-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-03-24T00:30:00Z
 DTEND:2022-03-24T00:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
@@ -19,23 +155,207 @@ DESCRIPTION:New in DataLab: Labour force microdata, 1982 to Feb 2022\n\nNA
 END:VEVENT
 BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.February_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-03-24T00:30:00Z
 DTEND:2022-03-24T00:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, February 2022
 DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables…\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Retail_Trade_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-29T00:30:00Z
+DTEND:2022-03-29T00:30:00Z
+SUMMARY:Retail Trade, Australia, February 2022
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Regional_population.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-29T00:30:00Z
+DTEND:2022-03-29T00:30:00Z
+SUMMARY:Regional population, 2020-21
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia's capital cities and regions\n\nhttps://www.abs.gov.au/statistics/people/population/regional-population/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Apparent_Consumption_of_Selected_Foodstuffs_Australia.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-30T00:30:00Z
+DTEND:2022-03-30T00:30:00Z
+SUMMARY:Apparent Consumption of Selected Foodstuffs, Australia, 2020-21
+DESCRIPTION:Provides experimental estimates of apparent consumption per capita of selected foods based on sales of products in Australia\n\nhttps://www.abs.gov.au/statistics/health/health-conditions-and-risks/apparent-consumption-selected-foodstuffs-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Engineering_Construction_Activity_Australia.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-30T00:30:00Z
+DTEND:2022-03-30T00:30:00Z
+SUMMARY:Engineering Construction Activity, Australia, December 2021
+DESCRIPTION:Provides estimates of value of engineering construction work done, commenced and yet to be done\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/engineering-construction-activity-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-30T00:30:00Z
+DTEND:2022-03-30T00:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, February 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Methodological_News.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-30T00:30:00Z
+DTEND:2022-03-30T00:30:00Z
+SUMMARY:Methodological News, March 2022
+DESCRIPTION:Features important work and developments in ABS methodologies\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.Jan_2020_Dec_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-30T00:30:00Z
+DTEND:2022-03-30T00:30:00Z
+SUMMARY:Provisional Mortality Statistics, Jan 2020 - Dec 2021
+DESCRIPTION:Provisional deaths data for measuring changes in patterns of mortality during the COVID-19 pandemic and recovery period\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-31T00:30:00Z
+DTEND:2022-03-31T00:30:00Z
+SUMMARY:Building Approvals, Australia, February 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Job_Vacancies_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-31T00:30:00Z
+DTEND:2022-03-31T00:30:00Z
+SUMMARY:Job Vacancies, Australia, February 2022
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Australian_National_Accounts_Finance_and_Wealth.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-03-31T00:30:00Z
+DTEND:2022-03-31T00:30:00Z
+SUMMARY:Australian National Accounts: Finance and Wealth, December 2021
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-01T00:30:00Z
+DTEND:2022-04-01T00:30:00Z
+SUMMARY:Lending Indicators, February 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-04T01:30:00Z
+DTEND:2022-04-04T01:30:00Z
+SUMMARY:Retail Trade, Australia, February 2022
+DESCRIPTION:Additional information for estimates of Australian retail business turnover. Includes detailed monthly estimates, quarterly estimates of turnover…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Causes_of_Death_Australia.2020@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-06T01:30:00Z
+DTEND:2022-04-06T01:30:00Z
+SUMMARY:Causes of Death, Australia, 2020
+DESCRIPTION:Revised data for 2018 and 2019 deaths will be published.\n\nhttps://www.abs.gov.au/statistics/health/causes-death/causes-death-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-07T01:30:00Z
+DTEND:2022-04-07T01:30:00Z
+SUMMARY:Building Approvals, Australia, February 2022
+DESCRIPTION:These data cubes present Building Approvals data for small geographic areas.\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-07T01:30:00Z
+DTEND:2022-04-07T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, February 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_12_March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-07T01:30:00Z
+DTEND:2022-04-07T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 12 March 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-08T01:30:00Z
+DTEND:2022-04-08T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, February 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Data_by_region.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-08T01:30:00Z
+DTEND:2022-04-08T01:30:00Z
+SUMMARY:Data by region, 2019-20
+DESCRIPTION:Data by region data update, including additional Jobs in Australia and Personal Income in Australia data.\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Language_Statistics_for_Aboriginal_and_Torres_Strait_Islander_Peoples.June_2016@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-11T01:30:00Z
+DTEND:2022-04-11T01:30:00Z
+SUMMARY:Language Statistics for Aboriginal and Torres Strait Islander Peoples, June 2016
+DESCRIPTION:Statistics from ABS collections on the speaking and learning of Aboriginal and Torres Strait Islander languages.\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Household_Impacts_of_COVID_19_Survey.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-12T01:30:00Z
+DTEND:2022-04-12T01:30:00Z
+SUMMARY:Household Impacts of COVID-19 Survey, March 2022
+DESCRIPTION:Insights into the prevalence and nature of impacts from COVID-19 on households in Australia.\n\nhttps://www.abs.gov.au/statistics/people/people-and-communities/household-impacts-covid-19-survey/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-12T01:30:00Z
+DTEND:2022-04-12T01:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, February 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Activity_Australia.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-13T01:30:00Z
+DTEND:2022-04-13T01:30:00Z
+SUMMARY:Building Activity, Australia, December 2021
+DESCRIPTION:Provides estimates of value of building work and number of dwellings commenced, completed, under construction and in the pipeline\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-activity-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.March_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-04-14T01:30:00Z
 DTEND:2022-04-14T01:30:00Z
 SUMMARY:Labour Force, Australia, March 2022
 DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Monthly_Household_Spending_Indicator.February_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-19T01:30:00Z
+DTEND:2022-04-19T01:30:00Z
+SUMMARY:Monthly Household Spending Indicator, February 2022
+DESCRIPTION:Experimental indicator of household spending using banks transaction data\n\nhttps://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.March_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-04-21T01:30:00Z
 DTEND:2022-04-21T01:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, March 2022
@@ -43,39 +363,511 @@ DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally a
 END:VEVENT
 BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-04-22T01:30:00Z
 DTEND:2022-04-22T01:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
 DESCRIPTION:New in DataLab: Labour force microdata, 1982 to Mar 2022\n\nNA
 END:VEVENT
 BEGIN:VEVENT
+UID:Australia_s_Population_by_Country_of_Birth.June_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-26T01:30:00Z
+DTEND:2022-04-26T01:30:00Z
+SUMMARY:Australia's Population by Country of Birth, June 2021
+DESCRIPTION:Statistics on Australia's estimated resident population by country of birth.\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Government_Finance_Statistics_Australia.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-26T01:30:00Z
+DTEND:2022-04-26T01:30:00Z
+SUMMARY:Government Finance Statistics, Australia, 2020-21
+DESCRIPTION:Statistics about finances of the general government and public corporation sectors for the various levels of government in Australia\n\nhttps://www.abs.gov.au/statistics/economy/government/government-finance-statistics-annual/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Government_Finance_Statistics_Education_Australia.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-26T01:30:00Z
+DTEND:2022-04-26T01:30:00Z
+SUMMARY:Government Finance Statistics, Education, Australia, 2020-21
+DESCRIPTION:Statistics about education related revenues and expenditures across various levels of government in Australia\n\nhttps://www.abs.gov.au/statistics/economy/government/government-finance-statistics-education-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Taxation_Revenue_Australia.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-26T01:30:00Z
+DTEND:2022-04-26T01:30:00Z
+SUMMARY:Taxation Revenue, Australia, 2020-21
+DESCRIPTION:Statistics about taxation revenue collected by the various levels of government in Australia\n\nhttps://www.abs.gov.au/statistics/economy/government/taxation-revenue-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Consumer_Price_Index_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-27T01:30:00Z
+DTEND:2022-04-27T01:30:00Z
+SUMMARY:Consumer Price Index, Australia, March 2022
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_Price_Indexes_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-28T01:30:00Z
+DTEND:2022-04-28T01:30:00Z
+SUMMARY:International Trade Price Indexes, Australia, March 2022
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Household_Income_and_Wealth_Australia.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-28T01:30:00Z
+DTEND:2022-04-28T01:30:00Z
+SUMMARY:Household Income and Wealth, Australia, 2019-20
+DESCRIPTION:This publication features key information about household income and wealth from the Survey of Income and Housing 2019-20.\n\nhttps://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-28T01:30:00Z
+DTEND:2022-04-28T01:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, March 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.January_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-28T01:30:00Z
+DTEND:2022-04-28T01:30:00Z
+SUMMARY:Provisional Mortality Statistics, January 2022
+DESCRIPTION:Provisional deaths data for measuring changes in patterns of mortality during the COVID-19 pandemic and recovery period\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Producer_Price_Indexes_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-29T01:30:00Z
+DTEND:2022-04-29T01:30:00Z
+SUMMARY:Producer Price Indexes, Australia, March 2022
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Producer_and_International_Trade_Price_Indexes_Concepts_Sources_and_Methods.2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-04-29T01:30:00Z
+DTEND:2022-04-29T01:30:00Z
+SUMMARY:Producer and International Trade Price Indexes: Concepts, Sources and Methods, 2022
+DESCRIPTION:Outlines the key concepts, definitions, data sources and methods used to prepare the Australian Producer and International Trade Price Indexes\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-04T01:30:00Z
+DTEND:2022-05-04T01:30:00Z
+SUMMARY:Lending Indicators, March 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-04T01:30:00Z
+DTEND:2022-05-04T01:30:00Z
+SUMMARY:Retail Trade, Australia, March 2022
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Selected_Living_Cost_Indexes_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-04T01:30:00Z
+DTEND:2022-05-04T01:30:00Z
+SUMMARY:Selected Living Cost Indexes, Australia, March 2022
+DESCRIPTION:The Living Cost Indexes (LCIs) are designed to measure the impact of price change on the disposable incomes of selected household types.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/selected-living-cost-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-05T01:30:00Z
+DTEND:2022-05-05T01:30:00Z
+SUMMARY:Building Approvals, Australia, March 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-05T01:30:00Z
+DTEND:2022-05-05T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, March 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Research_and_Experimental_Development_Higher_Education_Organisations_Australia.2020@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-06T01:30:00Z
+DTEND:2022-05-06T01:30:00Z
+SUMMARY:Research and Experimental Development, Higher Education Organisations, Australia, 2020
+DESCRIPTION:Contains data on expenditure and human resources devoted to research and development (R&D) carried out by higher education organisations in…\n\nhttps://www.abs.gov.au/statistics/industry/technology-and-innovation/research-and-experimental-development-higher-education-organisations-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-10T01:30:00Z
+DTEND:2022-05-10T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, March 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-10T01:30:00Z
+DTEND:2022-05-10T01:30:00Z
+SUMMARY:Retail Trade, Australia, March 2022
+DESCRIPTION:Additional information for estimates of Australian retail business turnover. Includes detailed monthly estimates, quarterly estimates of turnover…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Housing_Statistics_for_Aboriginal_and_Torres_Strait_Islander_Peoples.2018_19@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-11T01:30:00Z
+DTEND:2022-05-11T01:30:00Z
+SUMMARY:Housing Statistics for Aboriginal and Torres Strait Islander Peoples, 2018-19
+DESCRIPTION:Collation of housing and household characteristics statistics from ABS collections\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-12T01:30:00Z
+DTEND:2022-05-12T01:30:00Z
+SUMMARY:Building Approvals, Australia, March 2022
+DESCRIPTION:These data cubes present Building Approvals data for small geographic areas.\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-12T01:30:00Z
+DTEND:2022-05-12T01:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, March 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_16_April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-12T01:30:00Z
+DTEND:2022-05-12T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 16 April 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Household_Impacts_of_COVID_19_Survey.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-17T01:30:00Z
+DTEND:2022-05-17T01:30:00Z
+SUMMARY:Household Impacts of COVID-19 Survey, April 2022
+DESCRIPTION:Insights into the prevalence and nature of impacts from COVID-19 on households in Australia.\n\nhttps://www.abs.gov.au/statistics/people/people-and-communities/household-impacts-covid-19-survey/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Wage_Price_Index_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-18T01:30:00Z
+DTEND:2022-05-18T01:30:00Z
+SUMMARY:Wage Price Index, Australia, March 2022
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics…\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.April_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-05-19T01:30:00Z
 DTEND:2022-05-19T01:30:00Z
 SUMMARY:Labour Force, Australia, April 2022
 DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Livestock_Products_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-20T01:30:00Z
+DTEND:2022-05-20T01:30:00Z
+SUMMARY:Livestock Products, Australia, March 2022
+DESCRIPTION:Quarterly statistics on livestock slaughtering (numbers and value) meat production and receivals of wool.\n\nhttps://www.abs.gov.au/statistics/industry/agriculture/livestock-products-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Household_Spending_Indicator.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-23T01:30:00Z
+DTEND:2022-05-23T01:30:00Z
+SUMMARY:Monthly Household Spending Indicator, March 2022
+DESCRIPTION:Experimental indicator of household spending using banks transaction data\n\nhttps://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Construction_Work_Done_Australia_Preliminary.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-25T01:30:00Z
+DTEND:2022-05-25T01:30:00Z
+SUMMARY:Construction Work Done, Australia, Preliminary, March 2022
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Housing_Occupancy_and_Costs.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-25T01:30:00Z
+DTEND:2022-05-25T01:30:00Z
+SUMMARY:Housing Occupancy and Costs, 2019-20
+DESCRIPTION:Presents data from the Survey of Income and Housing 2019 20 on Australian housing occupancy, costs and affordability\n\nhttps://www.abs.gov.au/statistics/people/housing/housing-occupancy-and-costs/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-25T01:30:00Z
+DTEND:2022-05-25T01:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, April 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.Jan_Feb_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-25T01:30:00Z
+DTEND:2022-05-25T01:30:00Z
+SUMMARY:Provisional Mortality Statistics, Jan - Feb 2022
+DESCRIPTION:Provisional deaths data for measuring changes in patterns of mortality during the COVID-19 pandemic and recovery period\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Private_New_Capital_Expenditure_and_Expected_Expenditure_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-26T01:30:00Z
+DTEND:2022-05-26T01:30:00Z
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia, March 2022
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Federal_Defendants_Australia.1_July_2020_30_June_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-26T01:30:00Z
+DTEND:2022-05-26T01:30:00Z
+SUMMARY:Federal Defendants, Australia, 1 July 2020 - 30 June 2021
+DESCRIPTION:Statistics about defendants with federal offences dealt with by criminal courts including demographic, offence, outcome and sentence information…\n\nhttps://www.abs.gov.au/statistics/people/crime-and-justice/federal-defendants-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.April_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-05-26T01:30:00Z
 DTEND:2022-05-26T01:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, April 2022
 DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables…\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Retail_Trade_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-27T01:30:00Z
+DTEND:2022-05-27T01:30:00Z
+SUMMARY:Retail Trade, Australia, April 2022
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-05-27T01:30:00Z
 DTEND:2022-05-27T01:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
 DESCRIPTION:New in DataLab: Labour force microdata, 1982 to Apr 2022\n\nNA
 END:VEVENT
 BEGIN:VEVENT
+UID:Australian_Industry.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-27T01:30:00Z
+DTEND:2022-05-27T01:30:00Z
+SUMMARY:Australian Industry, 2020-21
+DESCRIPTION:Annual industry financial statistics including income and expenses, labour costs, profit and capital expenditure, as well as June employment\n\nhttps://www.abs.gov.au/statistics/industry/industry-overview/australian-industry/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Australian_National_Accounts_Input_Output_Tables.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-27T01:30:00Z
+DTEND:2022-05-27T01:30:00Z
+SUMMARY:Australian National Accounts: Input-Output Tables, 2019-20
+DESCRIPTION:Input Output tables for 2019-20 reference year\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-input-output-tables/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Australian_National_Accounts_Input_Output_Tables_Product_Details_.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-27T01:30:00Z
+DTEND:2022-05-27T01:30:00Z
+SUMMARY:Australian National Accounts: Input-Output Tables (Product Details), 2019-20
+DESCRIPTION:This product details Australian production, imports, margins, taxes, subsidies, intermediate and final usage, and exports of over 900 products.…\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-input-output-tables-product-details/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Balance_of_Payments_and_International_Investment_Position_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-31T01:30:00Z
+DTEND:2022-05-31T01:30:00Z
+SUMMARY:Balance of Payments and International Investment Position, Australia, March 2022
+DESCRIPTION:Balance of payments statistics on current, capital and financial transactions and the international investment position statement\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/balance-payments-and-international-investment-position-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-31T01:30:00Z
+DTEND:2022-05-31T01:30:00Z
+SUMMARY:Building Approvals, Australia, April 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Business_Indicators_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-31T01:30:00Z
+DTEND:2022-05-31T01:30:00Z
+SUMMARY:Business Indicators, Australia, March 2022
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Government_Finance_Statistics_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-31T01:30:00Z
+DTEND:2022-05-31T01:30:00Z
+SUMMARY:Government Finance Statistics, Australia, March 2022
+DESCRIPTION:Statistics about finances of the general government and public non-financial corporations sectors for the various levels of government in…\n\nhttps://www.abs.gov.au/statistics/economy/government/government-finance-statistics-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Mineral_and_Petroleum_Exploration_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-05-31T01:30:00Z
+DTEND:2022-05-31T01:30:00Z
+SUMMARY:Mineral and Petroleum Exploration, Australia, March 2022
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.\n\nhttps://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Australian_National_Accounts_National_Income_Expenditure_and_Product.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-01T01:30:00Z
+DTEND:2022-06-01T01:30:00Z
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product, March 2022
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Annual_weight_update_of_the_CPI_and_Living_Cost_Indexes.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-01T01:30:00Z
+DTEND:2022-06-01T01:30:00Z
+SUMMARY:Annual weight update of the CPI and Living Cost Indexes, December 2021
+DESCRIPTION:This information paper details the 2021 weight update for the Consumer Price Index and Selected Living Cost Indexes.\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-02T01:30:00Z
+DTEND:2022-06-02T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, April 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-02T01:30:00Z
+DTEND:2022-06-02T01:30:00Z
+SUMMARY:Retail Trade, Australia, April 2022
+DESCRIPTION:Additional information for estimates of Australian retail business turnover. Includes detailed monthly estimates, quarterly estimates of turnover…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Assets_and_Liabilities_of_Australian_Securitisers.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-02T01:30:00Z
+DTEND:2022-06-02T01:30:00Z
+SUMMARY:Assets and Liabilities of Australian Securitisers, March 2022
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages…\n\nhttps://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Managed_Funds_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-02T01:30:00Z
+DTEND:2022-06-02T01:30:00Z
+SUMMARY:Managed Funds, Australia, March 2022
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument\n\nhttps://www.abs.gov.au/statistics/economy/finance/managed-funds-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-03T01:30:00Z
+DTEND:2022-06-03T01:30:00Z
+SUMMARY:Lending Indicators, April 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Modellers_Database.March_Quarter_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-03T01:30:00Z
+DTEND:2022-06-03T01:30:00Z
+SUMMARY:Modellers' Database, March Quarter 2022
+DESCRIPTION:Selected series for macroeconomic analysis derived from national accounts and labour force data\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/modellers-database/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-07T01:30:00Z
+DTEND:2022-06-07T01:30:00Z
+SUMMARY:Building Approvals, Australia, April 2022
+DESCRIPTION:These data cubes present Building Approvals data for small geographic areas.\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Labour_Account_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-08T01:30:00Z
+DTEND:2022-06-08T01:30:00Z
+SUMMARY:Labour Account Australia, March 2022
+DESCRIPTION:The Australian Labour Account provides quarterly and annual time series data, consisting of four quadrants: Jobs, Persons, Hours and Payments\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-account-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Corrective_Services_Australia.March_Quarter_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-09T01:30:00Z
+DTEND:2022-06-09T01:30:00Z
+SUMMARY:Corrective Services, Australia, March Quarter 2022
+DESCRIPTION:National and state information about adult prisoners and community based corrections, including legal status, custody type, Indigenous status, sex…\n\nhttps://www.abs.gov.au/statistics/people/crime-and-justice/corrective-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Industrial_Disputes_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-09T01:30:00Z
+DTEND:2022-06-09T01:30:00Z
+SUMMARY:Industrial Disputes, Australia, March 2022
+DESCRIPTION:The number of disputes (strikes or lockouts), employees involved and working days lost; cause of dispute; duration; and the reason work resumed.…\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/industrial-disputes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_14_May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-09T01:30:00Z
+DTEND:2022-06-09T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 14 May 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-10T01:30:00Z
+DTEND:2022-06-10T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, April 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Residential_Property_Price_Indexes_Eight_Capital_Cities.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-14T01:30:00Z
+DTEND:2022-06-14T01:30:00Z
+SUMMARY:Residential Property Price Indexes: Eight Capital Cities, March 2022
+DESCRIPTION:Estimates of changes in residential property prices and the total value of Australia's dwelling stock, and preliminary housing market…\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/residential-property-price-indexes-eight-capital-cities/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.April_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-15T01:30:00Z
+DTEND:2022-06-15T01:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, April 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Research_and_Experimental_Development_Government_and_Private_Non_Profit_Organisations_Australia.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-15T01:30:00Z
+DTEND:2022-06-15T01:30:00Z
+SUMMARY:Research and Experimental Development, Government and Private Non-Profit Organisations, Australia, 2020-21
+DESCRIPTION:Data on expenditure and human resources devoted to research and development (R&D) carried out by government and private non-profit…\n\nhttps://www.abs.gov.au/statistics/industry/technology-and-innovation/research-and-experimental-development-government-and-private-non-profit-organisations-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.May_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-06-16T01:30:00Z
 DTEND:2022-06-16T01:30:00Z
 SUMMARY:Labour Force, Australia, May 2022
@@ -83,31 +875,183 @@ DESCRIPTION:Headline estimates of employment, unemployment, underemployment, par
 END:VEVENT
 BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-06-23T01:30:00Z
 DTEND:2022-06-23T01:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
 DESCRIPTION:New in DataLab: Labour force microdata, 1982 to May 2022\n\nNA
 END:VEVENT
 BEGIN:VEVENT
+UID:Australian_National_Accounts_Finance_and_Wealth.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-23T01:30:00Z
+DTEND:2022-06-23T01:30:00Z
+SUMMARY:Australian National Accounts: Finance and Wealth, March 2022
+DESCRIPTION:Contains quarterly data on national, sectoral and subsectoral financial accounts, balance sheets and capital accounts.\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-finance-and-wealth/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.May_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-06-23T01:30:00Z
 DTEND:2022-06-23T01:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, May 2022
 DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables…\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.Jan_Mar_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-23T01:30:00Z
+DTEND:2022-06-23T01:30:00Z
+SUMMARY:Provisional Mortality Statistics, Jan - Mar 2022
+DESCRIPTION:Provisional deaths data for measuring changes in patterns of mortality during the COVID-19 pandemic and recovery period\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Tourism_Satellite_Accounts_quarterly_tourism_labour_statistics_Australia_experimental_estimates.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-23T01:30:00Z
+DTEND:2022-06-23T01:30:00Z
+SUMMARY:Tourism Satellite Accounts: quarterly tourism labour statistics, Australia, experimental estimates, March 2022
+DESCRIPTION:Experimental estimates of quarterly tourism employment and jobs to measure the impacts of COVID-19 on tourism activity\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/tourism-satellite-accounts-quarterly-tourism-labour-statistics-australia-experimental-estimates/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:National_state_and_territory_population.December_2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-28T01:30:00Z
+DTEND:2022-06-28T01:30:00Z
+SUMMARY:National, state and territory population, December 2021
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia and its states and territories\n\nhttps://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-29T01:30:00Z
+DTEND:2022-06-29T01:30:00Z
+SUMMARY:Retail Trade, Australia, May 2022
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-29T01:30:00Z
+DTEND:2022-06-29T01:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, May 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_Supplementary_Information_Financial_Year.2020_21@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-29T01:30:00Z
+DTEND:2022-06-29T01:30:00Z
+SUMMARY:International Trade: Supplementary Information, Financial Year, 2020-21
+DESCRIPTION:Detailed financial year statistics on international trade in goods and services, by country and state\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-supplementary-information-financial-year/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Job_Vacancies_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-30T01:30:00Z
+DTEND:2022-06-30T01:30:00Z
+SUMMARY:Job Vacancies, Australia, May 2022
+DESCRIPTION:Results of the quarterly Job Vacancies Survey containing estimates of job vacancies classified by industry, sector and state/territory.\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/job-vacancies-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Methodological_News.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-30T01:30:00Z
+DTEND:2022-06-30T01:30:00Z
+SUMMARY:Methodological News, June 2022
+DESCRIPTION:Features important work and developments in ABS methodologies\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Recorded_Crime_Victims.2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-06-30T01:30:00Z
+DTEND:2022-06-30T01:30:00Z
+SUMMARY:Recorded Crime - Victims, 2021
+DESCRIPTION:National statistics about victims of a range of personal, household and family and domestic violence offences as recorded by police.\n\nhttps://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-victims/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-04T01:30:00Z
+DTEND:2022-07-04T01:30:00Z
+SUMMARY:Building Approvals, Australia, May 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-04T01:30:00Z
+DTEND:2022-07-04T01:30:00Z
+SUMMARY:Lending Indicators, May 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-05T01:30:00Z
+DTEND:2022-07-05T01:30:00Z
+SUMMARY:Retail Trade, Australia, May 2022
+DESCRIPTION:Additional information for estimates of Australian retail business turnover. Includes detailed monthly estimates, quarterly estimates of turnover…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-07T01:30:00Z
+DTEND:2022-07-07T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, May 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_11_June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-07T01:30:00Z
+DTEND:2022-07-07T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 11 June 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-08T01:30:00Z
+DTEND:2022-07-08T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, May 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-12T01:30:00Z
+DTEND:2022-07-12T01:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, May 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Activity_Australia.March_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-13T01:30:00Z
+DTEND:2022-07-13T01:30:00Z
+SUMMARY:Building Activity, Australia, March 2022
+DESCRIPTION:Provides estimates of value of building work and number of dwellings commenced, completed, under construction and in the pipeline\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-activity-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.June_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-07-14T01:30:00Z
 DTEND:2022-07-14T01:30:00Z
 SUMMARY:Labour Force, Australia, June 2022
 DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Australian_Statistical_Geography_Standard_ASGS_Edition_3.July_2021_June_2026@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-21T01:30:00Z
+DTEND:2022-07-21T01:30:00Z
+SUMMARY:Australian Statistical Geography Standard (ASGS) Edition 3, July 2021 - June 2026
+DESCRIPTION:2022 Release of Non ABS Structures\n\nhttps://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.June_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-07-21T01:30:00Z
 DTEND:2022-07-21T01:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, June 2022
@@ -115,34 +1059,338 @@ DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally a
 END:VEVENT
 BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-07-22T01:30:00Z
 DTEND:2022-07-22T01:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
 DESCRIPTION:New in DataLab: Labour force microdata, 1982 to Jun 2022\n\nNA
 END:VEVENT
 BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-25T01:30:00Z
+DTEND:2022-07-25T01:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, June 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Regional_population.2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-26T01:30:00Z
+DTEND:2022-07-26T01:30:00Z
+SUMMARY:Regional population, 2021
+DESCRIPTION:Statistics about the population and components of change (births, deaths, migration) for Australia's capital cities and regions\n\nhttps://www.abs.gov.au/statistics/people/population/regional-population/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Consumer_Price_Index_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-27T01:30:00Z
+DTEND:2022-07-27T01:30:00Z
+SUMMARY:Consumer Price Index, Australia, June 2022
+DESCRIPTION:The Consumer Price Index (CPI) measures price inflation of goods and services purchased by Australian households in each capital city.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_Price_Indexes_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-28T01:30:00Z
+DTEND:2022-07-28T01:30:00Z
+SUMMARY:International Trade Price Indexes, Australia, June 2022
+DESCRIPTION:Indexes measuring changes in prices of merchandise landed in Australia (Import Price Index) and shipped from Australia (Export Price Index)\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-28T01:30:00Z
+DTEND:2022-07-28T01:30:00Z
+SUMMARY:Retail Trade, Australia, June 2022
+DESCRIPTION:Monthly and quarterly estimates of turnover and volumes for retail businesses. Includes store and online sales by Australian retail businesses.…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Producer_Price_Indexes_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-29T01:30:00Z
+DTEND:2022-07-29T01:30:00Z
+SUMMARY:Producer Price Indexes, Australia, June 2022
+DESCRIPTION:Contains a range of producer price indexes in the Australian economy, comprising mining, manufacturing, construction and service industries.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Housing_Mobility_and_Conditions.2019_20@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-29T01:30:00Z
+DTEND:2022-07-29T01:30:00Z
+SUMMARY:Housing Mobility and Conditions, 2019-20
+DESCRIPTION:Presents data from the Survey of Income and Housing (SIH) on Australian housing mobility and dwelling conditions.\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Provisional_Mortality_Statistics.Jan_Apr_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-07-29T01:30:00Z
+DTEND:2022-07-29T01:30:00Z
+SUMMARY:Provisional Mortality Statistics, Jan - Apr 2022
+DESCRIPTION:Provisional deaths data for measuring changes in patterns of mortality during the COVID-19 pandemic and recovery period\n\nhttps://www.abs.gov.au/statistics/health/causes-death/provisional-mortality-statistics/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-02T01:30:00Z
+DTEND:2022-08-02T01:30:00Z
+SUMMARY:Building Approvals, Australia, June 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-02T01:30:00Z
+DTEND:2022-08-02T01:30:00Z
+SUMMARY:Lending Indicators, June 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail_Trade_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-03T01:30:00Z
+DTEND:2022-08-03T01:30:00Z
+SUMMARY:Retail Trade, Australia, June 2022
+DESCRIPTION:Additional information for estimates of Australian retail business turnover. Includes detailed monthly estimates, quarterly estimates of turnover…\n\nhttps://www.abs.gov.au/statistics/industry/retail-and-wholesale-trade/retail-trade-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Selected_Living_Cost_Indexes_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-03T01:30:00Z
+DTEND:2022-08-03T01:30:00Z
+SUMMARY:Selected Living Cost Indexes, Australia, June 2022
+DESCRIPTION:The Living Cost Indexes (LCIs) are designed to measure the impact of price change on the disposable incomes of selected household types.\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/selected-living-cost-indexes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-04T01:30:00Z
+DTEND:2022-08-04T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, June 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-09T01:30:00Z
+DTEND:2022-08-09T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, June 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_16_July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-11T01:30:00Z
+DTEND:2022-08-11T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 16 July 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Overseas_Arrivals_and_Departures_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-16T01:30:00Z
+DTEND:2022-08-16T01:30:00Z
+SUMMARY:Overseas Arrivals and Departures, Australia, June 2022
+DESCRIPTION:Statistics on international travel, including tourism trips, arriving in and departing from Australia. Focusing on short-term trips (less than 1…\n\nhttps://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Wage_Price_Index_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-17T01:30:00Z
+DTEND:2022-08-17T01:30:00Z
+SUMMARY:Wage Price Index, Australia, June 2022
+DESCRIPTION:The WPI measures changes in the price of labour, unaffected by compositional shifts in the labour force, hours worked or employee characteristics…\n\nhttps://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia.July_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-08-18T01:30:00Z
 DTEND:2022-08-18T01:30:00Z
 SUMMARY:Labour Force, Australia, July 2022
 DESCRIPTION:Headline estimates of employment, unemployment, underemployment, participation and hours worked from the monthly Labour Force Survey\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:Average_Weekly_Earnings_Australia.May_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-18T01:30:00Z
+DTEND:2022-08-18T01:30:00Z
+SUMMARY:Average Weekly Earnings, Australia, May 2022
+DESCRIPTION:Results of the Survey of Average Weekly Earnings containing estimates of earnings classified by industry, sector and state/territory\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/average-weekly-earnings-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Livestock_Products_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-19T01:30:00Z
+DTEND:2022-08-19T01:30:00Z
+SUMMARY:Livestock Products, Australia, June 2022
+DESCRIPTION:Quarterly statistics on livestock slaughtering (numbers and value) meat production and receivals of wool.\n\nhttps://www.abs.gov.au/statistics/industry/agriculture/livestock-products-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_Supplementary_Information_Calendar_Year.2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-24T01:30:00Z
+DTEND:2022-08-24T01:30:00Z
+SUMMARY:International Trade: Supplementary Information, Calendar Year, 2021
+DESCRIPTION:Detailed calendar year statistics on international trade in goods and services, by country and state\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-supplementary-information-calendar-year/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Labour_Force_Australia_Detailed.July_2022@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-08-25T01:30:00Z
 DTEND:2022-08-25T01:30:00Z
 SUMMARY:Labour Force, Australia, Detailed, July 2022
 DESCRIPTION:Labour Force related timeseries Excel spreadsheets with seasonally adjusted and trend estimates and detailed original data in Excel pivot tables…\n\nhttps://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed/latest-release
 END:VEVENT
 BEGIN:VEVENT
+UID:International_Merchandise_Trade_Confidential_Commodities_List.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-26T01:30:00Z
+DTEND:2022-08-26T01:30:00Z
+SUMMARY:International Merchandise Trade: Confidential Commodities List, July 2022
+DESCRIPTION:List of confidentiality restrictions applied to monthly international trade in goods statistics - including the historical time series\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-merchandise-trade-confidential-commodities-list/latest-release
+END:VEVENT
+BEGIN:VEVENT
 UID:Microdata_Longitudinal_Labour_Force.Australia@calendar.abs
-DTSTAMP:2022-03-11T06:36:42Z
+DTSTAMP:2022-03-11T06:41:24Z
 DTSTART:2022-08-26T01:30:00Z
 DTEND:2022-08-26T01:30:00Z
 SUMMARY:Microdata: Longitudinal Labour Force, Australia
 DESCRIPTION:New in DataLab: Labour force microdata, 1982 to Jul 2022\n\nNA
+END:VEVENT
+BEGIN:VEVENT
+UID:Mineral_and_Petroleum_Exploration_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-29T01:30:00Z
+DTEND:2022-08-29T01:30:00Z
+SUMMARY:Mineral and Petroleum Exploration, Australia, June 2022
+DESCRIPTION:Quarterly statistics on Mineral and Petroleum exploration expenditure by private organisations in Australia.\n\nhttps://www.abs.gov.au/statistics/industry/mining/mineral-and-petroleum-exploration-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Building_Approvals_Australia.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-30T01:30:00Z
+DTEND:2022-08-30T01:30:00Z
+SUMMARY:Building Approvals, Australia, July 2022
+DESCRIPTION:Provides the number of dwelling units and value of buildings approved\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Regional_population_by_age_and_sex.2021@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-30T01:30:00Z
+DTEND:2022-08-30T01:30:00Z
+SUMMARY:Regional population by age and sex, 2021
+DESCRIPTION:Statistics about the population by age and sex for Australia's capital cities and regions\n\nhttps://www.abs.gov.au/statistics/people/population/regional-population-age-and-sex/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Construction_Work_Done_Australia_Preliminary.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-08-31T01:30:00Z
+DTEND:2022-08-31T01:30:00Z
+SUMMARY:Construction Work Done, Australia, Preliminary, June 2022
+DESCRIPTION:Provides preliminary estimates of value of total construction work done, building work done and engineering construction work done\n\nhttps://www.abs.gov.au/statistics/industry/building-and-construction/construction-work-done-australia-preliminary/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Lending_Indicators.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-01T01:30:00Z
+DTEND:2022-09-01T01:30:00Z
+SUMMARY:Lending Indicators, July 2022
+DESCRIPTION:New borrower-accepted finance commitments for housing, personal and business loans\n\nhttps://www.abs.gov.au/statistics/economy/finance/lending-indicators/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Private_New_Capital_Expenditure_and_Expected_Expenditure_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-01T01:30:00Z
+DTEND:2022-09-01T01:30:00Z
+SUMMARY:Private New Capital Expenditure and Expected Expenditure, Australia, June 2022
+DESCRIPTION:Quarterly statistics about actual and expected private new capex investment spend on buildings and equipment by industry.\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Assets_and_Liabilities_of_Australian_Securitisers.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-01T01:30:00Z
+DTEND:2022-09-01T01:30:00Z
+SUMMARY:Assets and Liabilities of Australian Securitisers, June 2022
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that issue securities against specifically matched assets, such as mortgages…\n\nhttps://www.abs.gov.au/statistics/economy/finance/assets-and-liabilities-australian-securitisers/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Managed_Funds_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-01T01:30:00Z
+DTEND:2022-09-01T01:30:00Z
+SUMMARY:Managed Funds, Australia, June 2022
+DESCRIPTION:Statistics on the assets and liabilities of financial institutions that pool funds for investment, classified by type of financial instrument\n\nhttps://www.abs.gov.au/statistics/economy/finance/managed-funds-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Business_Indicators_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-05T01:30:00Z
+DTEND:2022-09-05T01:30:00Z
+SUMMARY:Business Indicators, Australia, June 2022
+DESCRIPTION:Quarterly estimates of profits, income from the sale of goods and services, wages and salaries, and the book value of inventories.\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/business-indicators-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Balance_of_Payments_and_International_Investment_Position_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-06T01:30:00Z
+DTEND:2022-09-06T01:30:00Z
+SUMMARY:Balance of Payments and International Investment Position, Australia, June 2022
+DESCRIPTION:Balance of payments statistics on current, capital and financial transactions and the international investment position statement\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/balance-payments-and-international-investment-position-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Government_Finance_Statistics_Australia.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-06T01:30:00Z
+DTEND:2022-09-06T01:30:00Z
+SUMMARY:Government Finance Statistics, Australia, June 2022
+DESCRIPTION:Statistics about finances of the general government and public non-financial corporations sectors for the various levels of government in…\n\nhttps://www.abs.gov.au/statistics/economy/government/government-finance-statistics-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Australian_National_Accounts_National_Income_Expenditure_and_Product.June_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-07T01:30:00Z
+DTEND:2022-09-07T01:30:00Z
+SUMMARY:Australian National Accounts: National Income, Expenditure and Product, June 2022
+DESCRIPTION:Quarterly estimates of key economic flows in Australia, including gross domestic product (GDP), consumption, investment, income and saving.\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:International_Trade_in_Goods_and_Services_Australia.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-08T01:30:00Z
+DTEND:2022-09-08T01:30:00Z
+SUMMARY:International Trade in Goods and Services, Australia, July 2022
+DESCRIPTION:Statistics about international trade in goods and services, on a balance of payments and international trade basis\n\nhttps://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods-and-services-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Industrial_Disputes_Australia.September_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-08T01:30:00Z
+DTEND:2022-09-08T01:30:00Z
+SUMMARY:Industrial Disputes, Australia, September 2022
+DESCRIPTION:The number of disputes (strikes or lockouts), employees involved and working days lost; cause of dispute; duration; and the reason work resumed.…\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/industrial-disputes-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Weekly_Payroll_Jobs_and_Wages_in_Australia.Week_ending_13_August_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-08T01:30:00Z
+DTEND:2022-09-08T01:30:00Z
+SUMMARY:Weekly Payroll Jobs and Wages in Australia, Week ending 13 August 2022
+DESCRIPTION:Payroll jobs and wages estimates, sourced from Single Touch Payroll (STP) data\n\nhttps://www.abs.gov.au/statistics/labour/earnings-and-work-hours/weekly-payroll-jobs-and-wages-australia/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Monthly_Business_Turnover_Indicator.July_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-09T01:30:00Z
+DTEND:2022-09-09T01:30:00Z
+SUMMARY:Monthly Business Turnover Indicator, July 2022
+DESCRIPTION:Experimental indicator of business turnover derived from monthly Business Activity Statements\n\nhttps://www.abs.gov.au/statistics/economy/business-indicators/monthly-business-turnover-indicator/latest-release
+END:VEVENT
+BEGIN:VEVENT
+UID:Modellers_Database.June_Quarter_2022@calendar.abs
+DTSTAMP:2022-03-11T06:41:24Z
+DTSTART:2022-09-09T01:30:00Z
+DTEND:2022-09-09T01:30:00Z
+SUMMARY:Modellers' Database, June Quarter 2022
+DESCRIPTION:Selected series for macroeconomic analysis derived from national accounts and labour force data\n\nhttps://www.abs.gov.au/statistics/economy/national-accounts/modellers-database/latest-release
 END:VEVENT
 END:VCALENDAR
